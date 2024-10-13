@@ -1,0 +1,12 @@
+com\example\springbatch\service\CustomerItemWriter.class
+com\example\springbatch\model\Customer.class
+com\example\springbatch\exceptions\ExceptionSkipPolicy.class
+com\example\springbatch\SpringBatch.class
+com\example\springbatch\controller\CustomerController.class
+com\example\springbatch\service\StepSkipListener.class
+com\example\springbatch\repository\CustomerRepository.class
+com\example\springbatch\service\CustomerProcessor.class
+com\example\springbatch\service\ICustomerService.class
+com\example\springbatch\service\CustomerService.class
+com\example\springbatch\config\BatchConfig.class
+com\example\springbatch\ServletInitializer.class
